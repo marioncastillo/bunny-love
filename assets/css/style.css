@@ -4,11 +4,13 @@
 	padding: 0;
 }
 
+
 .menu{
 	background-color: #175E7F;	
 	font-size: 15px;
 	display: flex;	
 	font-family: 'Prompt', sans-serif;
+	padding-top: 20px;
 }
 
 .menu li{
@@ -31,9 +33,26 @@ a{
 	display: flex;
 	padding-left: 30px;
 	padding-right: 50px;
+	padding-bottom: 20px;
 
 }
 
 .love{
 	color: #E85876;
+	text-align:center;
+}
+
+.conejo1{
+	width: 100vw;
+	display: flex;
+
+
+}
+footer{
+  text-align:center;
+  height: 70px;
+  background-color: #373b47;
+  color: white;
+  padding-top: 7px;
+  overflow: hidden;
 }
