@@ -1,0 +1,39 @@
+
+*{
+	margin:0;
+	padding: 0;
+}
+
+.menu{
+	background-color: #175E7F;	
+	font-size: 15px;
+	display: flex;	
+	font-family: 'Prompt', sans-serif;
+}
+
+.menu li{
+	list-style: none;
+	width: 100vw;
+	height: 50px;
+	text-align:center;
+
+}
+
+a{
+	color: white;
+	text-decoration: none;
+
+}
+
+.bunny{
+	font-family: 'Baloo Paaji', cursive;
+	font-size: 30px;
+	display: flex;
+	padding-left: 30px;
+	padding-right: 50px;
+
+}
+
+.love{
+	color: #E85876;
+}
